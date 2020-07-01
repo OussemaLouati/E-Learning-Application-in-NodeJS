@@ -1,0 +1,6 @@
+// CREATE Paiement  to a bachelier
+//5d555356a125d82d6b4f8148
+//status : paid or unpaid
+/:idBachelier
+//http://localhost:5000/api/paiement/5d555356a125d82d6b4f8148
+//email parent fl body
